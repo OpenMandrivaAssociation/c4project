@@ -4,7 +4,7 @@ Summary:        Useful CMake scripts
 # for use as a git submodule rather than for system-wide installation.
 Group:          Development
 Version:        20211228
-Release:        1
+Release:        2
 URL:            https://github.com/biojppm/cmake/
 # The entire source is MIT, except Toolchain-PS4.cmake and
 # Toolchain-XBoxOne.cmake, which are ASL 2.0.
